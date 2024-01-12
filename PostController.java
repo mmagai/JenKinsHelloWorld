@@ -7,6 +7,6 @@ public class PostController {
 
     public static void main(String args[]){
         
-        System.out.println("Tryingrrrr,");
+        System.out.println("Hi Edit is done,");
     }
 }
